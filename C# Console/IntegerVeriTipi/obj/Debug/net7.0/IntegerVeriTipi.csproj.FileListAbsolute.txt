@@ -1,0 +1,14 @@
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\bin\Debug\net7.0\IntegerVeriTipi.exe
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\bin\Debug\net7.0\IntegerVeriTipi.deps.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\bin\Debug\net7.0\IntegerVeriTipi.runtimeconfig.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\bin\Debug\net7.0\IntegerVeriTipi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\bin\Debug\net7.0\IntegerVeriTipi.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\obj\Debug\net7.0\IntegerVeriTipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\obj\Debug\net7.0\IntegerVeriTipi.AssemblyInfoInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\obj\Debug\net7.0\IntegerVeriTipi.AssemblyInfo.cs
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\obj\Debug\net7.0\IntegerVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\obj\Debug\net7.0\IntegerVeriTipi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\obj\Debug\net7.0\refint\IntegerVeriTipi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\obj\Debug\net7.0\IntegerVeriTipi.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\obj\Debug\net7.0\IntegerVeriTipi.genruntimeconfig.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\IntegerVeriTipi\obj\Debug\net7.0\ref\IntegerVeriTipi.dll

@@ -1,0 +1,14 @@
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\bin\Debug\net7.0\ifElseBlokları.exe
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\bin\Debug\net7.0\ifElseBlokları.deps.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\bin\Debug\net7.0\ifElseBlokları.runtimeconfig.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\bin\Debug\net7.0\ifElseBlokları.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\bin\Debug\net7.0\ifElseBlokları.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\obj\Debug\net7.0\ifElseBlokları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\obj\Debug\net7.0\ifElseBlokları.AssemblyInfoInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\obj\Debug\net7.0\ifElseBlokları.AssemblyInfo.cs
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\obj\Debug\net7.0\ifElseBlokları.csproj.CoreCompileInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\obj\Debug\net7.0\ifElseBlokları.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\obj\Debug\net7.0\refint\ifElseBlokları.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\obj\Debug\net7.0\ifElseBlokları.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\obj\Debug\net7.0\ifElseBlokları.genruntimeconfig.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ifElseBlokları\obj\Debug\net7.0\ref\ifElseBlokları.dll

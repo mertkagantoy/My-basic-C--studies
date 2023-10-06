@@ -1,0 +1,14 @@
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\bin\Debug\net7.0\doubleDecimalVeriTİpi.exe
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\bin\Debug\net7.0\doubleDecimalVeriTİpi.deps.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\bin\Debug\net7.0\doubleDecimalVeriTİpi.runtimeconfig.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\bin\Debug\net7.0\doubleDecimalVeriTİpi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\bin\Debug\net7.0\doubleDecimalVeriTİpi.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\obj\Debug\net7.0\doubleDecimalVeriTİpi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\obj\Debug\net7.0\doubleDecimalVeriTİpi.AssemblyInfoInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\obj\Debug\net7.0\doubleDecimalVeriTİpi.AssemblyInfo.cs
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\obj\Debug\net7.0\doubleDecimalVeriTİpi.csproj.CoreCompileInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\obj\Debug\net7.0\doubleDecimalVeriTİpi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\obj\Debug\net7.0\refint\doubleDecimalVeriTİpi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\obj\Debug\net7.0\doubleDecimalVeriTİpi.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\obj\Debug\net7.0\doubleDecimalVeriTİpi.genruntimeconfig.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\doubleDecimalVeriTİpi\obj\Debug\net7.0\ref\doubleDecimalVeriTİpi.dll

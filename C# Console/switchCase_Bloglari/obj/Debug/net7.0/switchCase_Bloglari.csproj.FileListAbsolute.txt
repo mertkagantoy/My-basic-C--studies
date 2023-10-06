@@ -1,0 +1,14 @@
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\obj\Debug\net7.0\switchCase_Bloglari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\obj\Debug\net7.0\switchCase_Bloglari.AssemblyInfoInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\obj\Debug\net7.0\switchCase_Bloglari.AssemblyInfo.cs
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\obj\Debug\net7.0\switchCase_Bloglari.csproj.CoreCompileInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\bin\Debug\net7.0\switchCase_Bloglari.exe
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\bin\Debug\net7.0\switchCase_Bloglari.deps.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\bin\Debug\net7.0\switchCase_Bloglari.runtimeconfig.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\bin\Debug\net7.0\switchCase_Bloglari.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\bin\Debug\net7.0\switchCase_Bloglari.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\obj\Debug\net7.0\switchCase_Bloglari.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\obj\Debug\net7.0\refint\switchCase_Bloglari.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\obj\Debug\net7.0\switchCase_Bloglari.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\obj\Debug\net7.0\switchCase_Bloglari.genruntimeconfig.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\switchCase_Bloglari\obj\Debug\net7.0\ref\switchCase_Bloglari.dll

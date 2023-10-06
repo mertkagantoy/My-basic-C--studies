@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "stringVeriTipi/1.0.0": {
+        "runtime": {
+          "stringVeriTipi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "stringVeriTipi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

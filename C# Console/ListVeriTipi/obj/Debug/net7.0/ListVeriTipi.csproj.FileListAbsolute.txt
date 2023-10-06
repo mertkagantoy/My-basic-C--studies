@@ -1,0 +1,14 @@
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\bin\Debug\net7.0\ListVeriTipi.exe
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\bin\Debug\net7.0\ListVeriTipi.deps.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\bin\Debug\net7.0\ListVeriTipi.runtimeconfig.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\bin\Debug\net7.0\ListVeriTipi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\bin\Debug\net7.0\ListVeriTipi.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\obj\Debug\net7.0\ListVeriTipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\obj\Debug\net7.0\ListVeriTipi.AssemblyInfoInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\obj\Debug\net7.0\ListVeriTipi.AssemblyInfo.cs
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\obj\Debug\net7.0\ListVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\obj\Debug\net7.0\ListVeriTipi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\obj\Debug\net7.0\refint\ListVeriTipi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\obj\Debug\net7.0\ListVeriTipi.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\obj\Debug\net7.0\ListVeriTipi.genruntimeconfig.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ListVeriTipi\obj\Debug\net7.0\ref\ListVeriTipi.dll

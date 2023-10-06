@@ -1,0 +1,14 @@
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\bin\Debug\net7.0\DateTimeVeriTipi.exe
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\bin\Debug\net7.0\DateTimeVeriTipi.deps.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\bin\Debug\net7.0\DateTimeVeriTipi.runtimeconfig.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\bin\Debug\net7.0\DateTimeVeriTipi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\bin\Debug\net7.0\DateTimeVeriTipi.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\obj\Debug\net7.0\DateTimeVeriTipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\obj\Debug\net7.0\DateTimeVeriTipi.AssemblyInfoInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\obj\Debug\net7.0\DateTimeVeriTipi.AssemblyInfo.cs
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\obj\Debug\net7.0\DateTimeVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\obj\Debug\net7.0\DateTimeVeriTipi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\obj\Debug\net7.0\refint\DateTimeVeriTipi.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\obj\Debug\net7.0\DateTimeVeriTipi.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\obj\Debug\net7.0\DateTimeVeriTipi.genruntimeconfig.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\DateTimeVeriTipi\obj\Debug\net7.0\ref\DateTimeVeriTipi.dll

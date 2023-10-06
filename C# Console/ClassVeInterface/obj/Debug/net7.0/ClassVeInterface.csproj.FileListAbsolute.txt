@@ -1,0 +1,14 @@
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\bin\Debug\net7.0\ClassVeInterface.exe
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\bin\Debug\net7.0\ClassVeInterface.deps.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\bin\Debug\net7.0\ClassVeInterface.runtimeconfig.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\bin\Debug\net7.0\ClassVeInterface.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\bin\Debug\net7.0\ClassVeInterface.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\obj\Debug\net7.0\ClassVeInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\obj\Debug\net7.0\ClassVeInterface.AssemblyInfoInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\obj\Debug\net7.0\ClassVeInterface.AssemblyInfo.cs
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\obj\Debug\net7.0\ClassVeInterface.csproj.CoreCompileInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\obj\Debug\net7.0\ClassVeInterface.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\obj\Debug\net7.0\refint\ClassVeInterface.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\obj\Debug\net7.0\ClassVeInterface.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\obj\Debug\net7.0\ClassVeInterface.genruntimeconfig.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\ClassVeInterface\obj\Debug\net7.0\ref\ClassVeInterface.dll

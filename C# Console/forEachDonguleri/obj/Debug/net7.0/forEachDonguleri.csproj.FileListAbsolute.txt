@@ -1,0 +1,14 @@
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\bin\Debug\net7.0\forEachDonguleri.exe
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\bin\Debug\net7.0\forEachDonguleri.deps.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\bin\Debug\net7.0\forEachDonguleri.runtimeconfig.json
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\bin\Debug\net7.0\forEachDonguleri.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\bin\Debug\net7.0\forEachDonguleri.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\obj\Debug\net7.0\forEachDonguleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\obj\Debug\net7.0\forEachDonguleri.AssemblyInfoInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\obj\Debug\net7.0\forEachDonguleri.AssemblyInfo.cs
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\obj\Debug\net7.0\forEachDonguleri.csproj.CoreCompileInputs.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\obj\Debug\net7.0\forEachDonguleri.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\obj\Debug\net7.0\refint\forEachDonguleri.dll
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\obj\Debug\net7.0\forEachDonguleri.pdb
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\obj\Debug\net7.0\forEachDonguleri.genruntimeconfig.cache
+C:\Users\mertk\webcanavarı\CSharp\Solution1\forEachDonguleri\obj\Debug\net7.0\ref\forEachDonguleri.dll
